@@ -34,6 +34,9 @@
     "name":"spr_asteroid_huge",
     "path":"sprites/spr_asteroid_huge/spr_asteroid_huge.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_asteroid_huge",
+    "path":"sprites/spr_asteroid_huge/spr_asteroid_huge.yy",
+  },
   "visible":true,
 }
