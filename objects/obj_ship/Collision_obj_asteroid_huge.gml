@@ -1,5 +1,6 @@
 /// @desc
 
+lives -= 1;
 instance_destroy();
 
 repeat(10){
