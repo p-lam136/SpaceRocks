@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_asteroid_huge",
+  "%Name":"obj_asteroid",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_asteroid_huge",
+  "name":"obj_asteroid",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,12 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_asteroid_huge",
-    "path":"sprites/spr_asteroid_huge/spr_asteroid_huge.yy",
+    "name":"spr_asteroid_small",
+    "path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_asteroid_huge",
-    "path":"sprites/spr_asteroid_huge/spr_asteroid_huge.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
