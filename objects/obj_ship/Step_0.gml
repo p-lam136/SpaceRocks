@@ -1,4 +1,4 @@
-/// @desc
+	/// @desc
 
 if(keyboard_check(ord("A"))){
 	image_angle += 5;

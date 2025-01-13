@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_debris",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":1,
   "bbox_left":0,
-  "bbox_right":0,
+  "bbox_right":1,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":1,
+  "height":2,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"422d1721-b0ba-4264-8d50-42bd19a467e1","blendMode":0,"displayName":"default","isLocked":false,"name":"422d1721-b0ba-4264-8d50-42bd19a467e1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1,
+  "width":2,
 }
