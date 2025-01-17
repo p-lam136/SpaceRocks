@@ -1,6 +1,6 @@
 /// @desc
 
-lives -= 1;
+lives -= 0.5;
 
 with(obj_game){
 	alarm[1] = room_speed;

@@ -1,5 +1,5 @@
 var _game_instructions = 
-@"Score 100 points to win!
+@"Score 300 points to win!
 
 W: move
 A/D: change direction
