@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-sprite_index = spr_ship
-timer = 0;
+with(obj_ship) {
+	instance_destroy();
+}

@@ -28,6 +28,8 @@ if (sprite_index == spr_ship2) {
     }
 }
 
-
-
 move_wrap(true, true, sprite_width/2);
+
+if(timer > 0) {
+	timer -= 1;
+}

@@ -3,4 +3,4 @@
 
 sprite_index = spr_ship2
 
-alarm[0] = 1;
+alarm[4] = 1;
